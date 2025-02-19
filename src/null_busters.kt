@@ -19,7 +19,7 @@ fun main(){
     greetUser("Hello World!" )
 
     //Step 3
-    var address: String? = null
+    val address: String? = null
     address?: "221B Baker Street, London"
 
     calculateArea(4,5)
